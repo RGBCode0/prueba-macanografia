@@ -43,7 +43,7 @@ Este proyecto es una aplicación web interactiva para medir tu velocidad y preci
 ## 🌐 Demo en línea
 Puedes probar la aplicación directamente:
 
-📎 https://tu-usuario.github.io/prueba-mecanografia
+📎 https://rgbcode0.github.io/prueba-macanografia/
 
  
 ## Créditos
